@@ -20,6 +20,7 @@ class FavoritePokemons extends React.Component {
   static renderFavoritePokemon(pokemon) {
     return (
       <div key={ pokemon.id } className="favorite-pokemon">
+        {console.log(pokemon)}
         <Pokemon pokemon={ pokemon } isFavorite />
       </div>
     );
