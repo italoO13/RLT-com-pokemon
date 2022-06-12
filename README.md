@@ -24,7 +24,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-Este projeto teve como objetivo utilizar react testing library para testar uma aplicação react que simula uma pokedex 
+Este projeto teve como objetivo utilizar react testing library para testar uma aplicação react que simula uma pokedex. A aplicação foi feita pela TRYBE, ficou de minha responsabilidade apenas fazer os testes.
 
 ---
 
